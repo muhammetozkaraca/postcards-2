@@ -1,0 +1,20 @@
+---
+title: "Hi,"
+image: "me.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: Academic Website
+    url: "https://muhammetozkaraca.netlify.app"
+  - label: GitHub
+    url: "https://github.com/muhammetozkaraca"
+  - label: LinkedIn
+    url: "https://linkedin.com/in/muhammet-ozkaraca"
+  - label: Email
+    url: "mailto:muhammetozk@icloud.com"
+output:
+  postcards::onofre
+---
+ 
+I am a recent graduate of the Political Science Master program at Central European University in Vienna. Currently, I am a research assistant at the Istanbul Policy Center. Previously, I held a couple of research assistant positions in academia and interned at national and international think tanks. Throughout these occasions, I gathered experience in conducting research, preparing and drafting written works, along with cleaning, analyzing, and visualizing data in MS Excel, R and Python. If you are interested in my background and my previous experience, you can find more information on this website.
